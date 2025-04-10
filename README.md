@@ -11,6 +11,7 @@ This project allows users to upload a dataset and generate interactive charts us
    - Line Chart
    - Scatter Plot
    - Histogram
+   - Counter plot 
 4. **Real-Time Visualization:** Generate and view charts instantly in the browser.
 
 ## Setup Instructions
