@@ -1,4 +1,4 @@
-# Interactive Chart Generator
+# Interactive Chart Generator Using Matplotlib and Seaborn
 
 ## Overview
 This project allows users to upload a dataset and generate interactive charts using Matplotlib and Seaborn.
