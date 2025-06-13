@@ -1,21 +1,43 @@
-# Interactive Chart Generator Using Matplotlib and Seaborn
+# 📊 Interactive Chart Generator Using Matplotlib & Seaborn
 
-## Overview
-This project allows users to upload a dataset and generate interactive charts using Matplotlib and Seaborn.
+A Python-based web tool that allows users to upload CSV datasets and generate interactive visualizations with zero code. Built using Matplotlib and Seaborn, this project simplifies data exploration for beginners and non-technical users.
 
-## Features
-1. **Upload CSV Dataset:** Users can upload any CSV file.
-2. **Interactive Column Selection:** Select columns for X and Y axes dynamically.
-3. **Chart Types Supported:**
-   - Bar Chart
-   - Line Chart
-   - Scatter Plot
-   - Histogram
-   - Counter plot 
-4. **Real-Time Visualization:** Generate and view charts instantly in the browser.
+---
 
-## Setup Instructions
-1. Clone the repository or download the files.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+## 🚀 Features
+
+- 📁 Upload CSV datasets
+- 🧠 Dynamic column selection (X and Y axes)
+- 📈 Generate multiple chart types:
+  - Bar Chart
+  - Line Chart
+  - Scatter Plot
+  - Histogram
+  - Counter Plot
+- ⚡ Real-time chart rendering
+- 🔄 Easy switching between chart types
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Matplotlib
+- Seaborn
+- Pandas
+- Streamlit / Flask *(whichever you used – update this)*
+
+---
+
+## 📦 Setup Instructions
+
+```bash
+# Clone the repository
+git clone https://github.com/asmathjabeen/interactive-chart-generator.git
+cd interactive-chart-generator
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the project
+python app.py
